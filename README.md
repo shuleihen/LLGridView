@@ -1,3 +1,3 @@
 # LLGridView
 iOS 网格列表
-![截图](http://img.my.csdn.net/uploads/201507/23/1437633206_5730.gif)
+![截图](https://github.com/shuleihen/LLGridView/blob/master/LLGridView/showing.png)
